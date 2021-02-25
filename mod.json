@@ -5,6 +5,6 @@
   "description": "",
   "version": "0.0.1",
   "hidden": false,
-  "dependencies": [ ]
+  "dependencies": [ ],
   "minGameVersion": "105",
 }
