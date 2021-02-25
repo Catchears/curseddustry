@@ -1,0 +1,10 @@
+{
+  "name": "better-textures",
+  "displayName": "Textures[accent]+",
+  "author": "Catchears",
+  "description": "",
+  "version": "0.0.1",
+  "hidden": false,
+  "dependencies": [ ]
+  "minGameVersion": "105",
+}
